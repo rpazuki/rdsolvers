@@ -100,8 +100,8 @@ def Neumann_Boundary_1D(rx, Ix, c=0.0, delta_x=0):
         )
 
 
-def Diritchlet_Boundary_1D(rx, Ix, c=0.0, delta_x=0):
-    """Diritchlet boundary condition: u = 0
+def Dirichlet_Boundary_1D(rx, Ix, c=0.0, delta_x=0):
+    """Dirichlet boundary condition: u = 0
 
     Args:
         rx (float): D Δt / 2 Δx^2
@@ -330,8 +330,8 @@ def Neumann_Boundary_2D(rx, ry, Ix, Jy, cx=0.0, cy=0.0, delta_x=0, delta_y=0):
         )
 
 
-def Diritchlet_Boundary_2D(rx, ry, Ix, Jy, cx=0.0, cy=0.0, delta_x=0, delta_y=0):
-    """Diritchlet boundary condition: u = 0
+def Dirichlet_Boundary_2D(rx, ry, Ix, Jy, cx=0.0, cy=0.0, delta_x=0, delta_y=0):
+    """Dirichlet boundary condition: u = 0
 
     Args:
         rx (float): D Δt / 2 Δx^2
