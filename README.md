@@ -5,4 +5,4 @@ This module solves the Reaction-Diffusion PDEs for one or more species in one or
 
 ---------------
 
-The source code is in the *solvers* folder. Check the (HowTo.ipynb)[HowTo.ipynb] notebook to see an example of a Brusselator model solution
+The source code is in the *solvers* folder. Check the [HowTo.ipynb](HowTo.ipynb) notebook to see an example of a Brusselator model solution
