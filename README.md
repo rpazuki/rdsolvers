@@ -7,7 +7,7 @@ How to Install
 -----------------------
 After downloading the project zip file and extracting its folder or cloning the project by ``git``, go to its directory and install it by executing the following command line
 
-``pip install .`
+``pip install .``
 
 (Ensure you don't forget the dot at the end of the command). After that, you can import the module into your Python environment, like
 
