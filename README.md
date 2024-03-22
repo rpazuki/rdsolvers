@@ -1,6 +1,8 @@
 Reaction-Diffusion PDEs Solver
 ========================
 
+[![DOI](https://zenodo.org/badge/742470771.svg)](https://zenodo.org/doi/10.5281/zenodo.10854043)
+
 This module solves the Reaction-Diffusion PDEs for one or more species in one or two-dimensional domain. The ``Crank-Nicolson`` finite difference schema is implemented, and Periodic, Dirichlet, and Neumann boundary conditions are supported.
 
 How to Install

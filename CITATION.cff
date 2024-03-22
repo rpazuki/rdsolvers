@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: H. Pazuki
+    given-names: Roozbeh
+    orcid: https://orcid.org/0000-0003-4850-995X
+title: "Reaction-Diffusion PDEs Solver"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10854043
+date-released: 2024-03-22
